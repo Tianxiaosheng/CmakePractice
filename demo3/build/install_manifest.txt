@@ -1,0 +1,5 @@
+/tmp/demo_3/lib/libhello.so.1.2
+/tmp/demo_3/lib/libhello.so.1
+/tmp/demo_3/lib/libhello.so
+/tmp/demo_3/lib/libhello.a
+/tmp/demo_3/include/hello/hello.h

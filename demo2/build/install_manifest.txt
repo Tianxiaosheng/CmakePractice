@@ -1,0 +1,5 @@
+/tmp/demo2/usr/share/doc/cmake_demoes/demo2/COPYRIGHT
+/tmp/demo2/usr/share/doc/cmake_demoes/demo2/README
+/tmp/demo2/usr/bin/rundemo2.sh
+/tmp/demo2/usr/bin/demo2
+/tmp/demo2/usr/share/doc/cmake_demoes/demo2/demo2.txt

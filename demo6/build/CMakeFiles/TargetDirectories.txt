@@ -1,0 +1,5 @@
+/home/xiaosheng/my_script/cmake_demoes/demo6/build/CMakeFiles/rebuild_cache.dir
+/home/xiaosheng/my_script/cmake_demoes/demo6/build/CMakeFiles/edit_cache.dir
+/home/xiaosheng/my_script/cmake_demoes/demo6/build/bin/CMakeFiles/rebuild_cache.dir
+/home/xiaosheng/my_script/cmake_demoes/demo6/build/bin/CMakeFiles/edit_cache.dir
+/home/xiaosheng/my_script/cmake_demoes/demo6/build/bin/CMakeFiles/demo6.dir

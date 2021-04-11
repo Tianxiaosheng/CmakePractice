@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/demo4.dir/main.c.o  -o demo4 -Wl,-rpath,/tmp/demo_3/lib /tmp/demo_3/lib/libhello.so 

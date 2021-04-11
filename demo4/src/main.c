@@ -1,0 +1,7 @@
+#include <hello.h>
+
+int main(void)
+{
+    hello_fun();
+    return 0;
+}
